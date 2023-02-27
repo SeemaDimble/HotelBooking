@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Getting Started with Hotel Booking 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,6 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# HotelBooking
->>>>>>> c6a3454ef7df0e12a61d1e456a25395a3232e648
+
