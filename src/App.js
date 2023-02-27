@@ -10,7 +10,6 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      {/* <Home>jjj</Home> */}
       <Route path="/" element={<Home/>}></Route>
       <Route path="/hotels" element={<List/>}></Route>
       <Route path="/hotels/:id" element={<Hotel/>}></Route>
